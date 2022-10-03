@@ -156,3 +156,37 @@
 - \[ ] cross-validation
 - \[ ] undersampling
 - \[ ] underfit
+
+#### Q21. Bahasa pemrograman python tidak menunjang untuk pembuatan visualisasi data.
+
+- \[ ] True
+- \[x] False
+
+#### Q22. Berikut yang bukan merupakan jenis grafik dari visualisasi data adalah ...
+
+- \[ ] Line Chart
+- \[ ] Pie Chart
+- \[ ] Bar Chart
+- \[x] Raw Data Table
+- \[ ] Histogram
+
+#### Q23. Bar chart dan Line chart sama-sama membutuhkan sumbu x dan y sebagai skala satuan nilainya.
+
+- \[x] True
+- \[ ] False
+
+#### Q24. Berikut ini library python yang bukan ditujukan untuk visualisasi data adalah ...
+
+- \[ ] Sweetviz
+- \[ ] Matplotlib
+- \[ ] Plotly
+- \[ ] Seaborn
+- \[x] Sastrawi
+
+#### Q25. Salah satu tujuan penting dari data visualisasi adalah ...
+
+- \[ ] Menambah anggaran perusahaan untuk membeli tools visualisasi data berbayar (enterprise)
+- \[ ] Tidak ada tujuannya.
+- \[x] Supaya dapat dipahami oleh semua kalangan yang menerima informasi tersebut
+- \[ ] Supaya terlihat mewah saja.
+- \[ ] Untuk mempersulit siapapun yang melihatnya.
