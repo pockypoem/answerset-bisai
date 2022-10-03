@@ -156,3 +156,34 @@
 - \[ ] stopword removal
 - \[x] case folding
 - \[ ] feature scaling
+
+#### Q21. Dalam melakukan visualisasi atau membangun dashboard tidak diwajibkan menggunakan semua jenis grafik yang tersedia.
+
+- \[x] True
+- \[ ] False
+
+#### Q22. Visualisasi yang bagus dapat mempersulit user mencerna informasi dan berpotensi terjadi salah pemahaman (missunderstanding) pada hasil analisa data
+
+- \[ ] True
+- \[x] False
+
+#### Q23. Untuk visualisasi atribut yang berisi nilai longitude dan latitude dapat menggunakan grafik ...
+
+- \[ ] Histogram
+- \[ ] Boxplot
+- \[x] Geomap
+- \[ ] Bar chart
+- \[ ] Line chart
+
+#### Q24. Untuk melihat relasi dan sebaran dari dua buah variabel lebih cocok menggunakan scatter plot.
+
+- \[x] True
+- \[ ] False
+
+#### Q25. Grafik yang cocok untuk visualisasi data yang bersifat time series adalah ...
+
+- \[ ] Pie chart
+- \[x] Line chart
+- \[ ] Subplot
+- \[ ] Box plot
+- \[ ] Histogram
