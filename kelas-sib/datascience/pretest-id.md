@@ -116,3 +116,43 @@
 - \[x] Univariate analysis
 - \[ ] Factor analysis
 - \[ ] Multivariate analysis
+
+#### Q16. Melakukan seleksi pada abundant class secara acak/random sehingga abundant class nilainya berkurang sampai dengan jumlahnya sama dengan rare class disebut juga dengan ...
+
+- \[ ] oversampling
+- \[ ] overfit
+- \[ ] cross-validation
+- \[x] undersampling
+- \[ ] underfit
+
+#### Q17. Dalam kasus supervised learning, variabel yang bersifat dependen atau predictor disebut juga dengan ...
+
+- \[x] Features
+- \[ ] Encoder
+- \[ ] Label
+- \[ ] Transformation
+- \[ ] Hyper-parameter
+
+#### Q18. Tahap menyiapkan/membersihkan data yang kotor untuk selanjutnya akan diproses menggunakan model machine learning disebut dengan ...
+
+- \[ ] Data Tracking
+- \[x] Data Preprocessing
+- \[ ] Data Tracking
+- \[ ] Data Collecting
+- \[ ] Dimensionality Reduction
+
+#### Q19. Data encoding bertujuan untuk merubah data yang bertipe object atau string ke dalam bentuk ...
+
+- \[ ] teks
+- \[ ] gambar
+- \[ ] audio
+- \[ ] semua salah
+- \[x] numerik
+
+#### Q20. Teknik resampling data dengan melakukan generate data pada rare class sehingga jumlah dari rare class sama dengan abundant class dikenal juga dengan teknik ...
+
+- \[x] oversampling
+- \[ ] overfit
+- \[ ] cross-validation
+- \[ ] undersampling
+- \[ ] underfit
