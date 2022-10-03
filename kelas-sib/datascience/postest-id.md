@@ -187,3 +187,37 @@
 - \[ ] Subplot
 - \[ ] Box plot
 - \[ ] Histogram
+
+#### Q26. Berikut pernyataan yang benar untuk algoritma KNN adalah ...
+
+- \[ ] KNN menggunakan hyperplane untuk melakukan klasifikasi.
+- \[ ] KNN merupakan algoritma Machine Learning yang tidak menunjang untuk classification task.
+- \[x] KNN percaya suatu data dapat diklasifikasikan menurut mayoritas kelas/label dari k tetangga terdekatnya.
+- \[ ] KNN menggunakan entropy untuk melakukan klasifikasi
+- \[ ] KNN melakukan klasifikasi dengan melakukan break down pada permasalahan data untuk mendapatkan struktur klasifikasi.
+
+#### Q27. Entropi merupakan suatu perhitungan untuk mengukur impurity atau uncertainty dari kelompok data observasi.
+
+- \[x] True
+- \[ ] False
+
+#### Q28. Algoritma SVM tidak dibutuhkan hyperplane.
+
+- \[ ] True
+- \[x] False
+
+#### Q29. Perhatikan tabel berikut: <br> ![Q29image](images/pic-windy-golf.png) <br> Tentukan Entropy dari windy pada tabel tersebut!
+
+- \[ ] 0,1
+- \[x] 0
+- \[ ] 0,2
+- \[ ] 0,25
+- \[ ] 0,5
+
+#### Q30. Berikut ini yang bukan algoritma Machine Learning untuk kasus klasifikasi adalah ...
+
+- \[x] Kmeans
+- \[ ] SVM
+- \[ ] KNN
+- \[ ] Decision Tree
+- \[ ] Naive Bayes
