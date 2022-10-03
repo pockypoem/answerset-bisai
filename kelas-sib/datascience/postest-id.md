@@ -39,3 +39,43 @@
 - \[ ] Use self-learning
 - \[x] Use descriptive statistics and data visualization techniques
 - \[ ] Use deep learning
+
+#### Q6. Modul apakah yang perlu kita import untuk menangani perhitungan tanggal dan waktu menggunakan Python?
+
+- \[x] datetime
+- \[ ] timedate
+- \[ ] time
+- \[ ] timescount
+- \[ ] date
+
+#### Q7. Ketika melewati sebuah fungsi, \*args akan disimpan pada datatype ...
+
+- \[ ] dictionary
+- \[x] tuple
+- \[ ] tensor
+- \[ ] list
+- \[ ] semua benar
+
+#### Q8. Berikut ini yang merupakan statement untuk Exception Handling adalah ...
+
+- \[ ] except
+- \[x] Semua benar
+- \[ ] try
+- \[ ] raise
+- \[ ] finally
+
+#### Q9. Manakah dari fungsi berikut pada Python yang mengubah tanggal menjadi waktu yang sesuai?
+
+- \[ ] semua benar
+- \[ ] strftime()
+- \[x] strptime()
+- \[ ] to_time()
+- \[ ] semua salah
+
+#### Q10. Ketika melewati sebuah fungsi, \*\*kwargs akan disimpan pada datatype ...
+
+- \[ ] tensor
+- \[ ] list
+- \[ ] tuple
+- \[ ] semua benar
+- \[x] dictionary
