@@ -79,3 +79,43 @@
 - \[ ] tuple
 - \[ ] semua benar
 - \[x] dictionary
+
+#### Q11. Untuk melihat proporsi suatu kelas di dalam data yang kita analisis, dapat dilakukan dengan memvisualisasikannya ke dalam ...
+
+- \[ ] Line chart
+- \[x] Pie chart
+- \[ ] Matrix faktorisasi
+- \[ ] Table excel
+- \[ ] Numpy array
+
+#### Q12. Berikut ini yang bukan merupakan manfaat Exploratory Data Analysis yang dilakukan sebelum memodelkan data adalah ...
+
+- \[ ] Menyiapkan data berdasarkan kondisi dan karakteristiknya
+- \[ ] Mengenali karakteristik data
+- \[ ] Menggali insight data
+- \[ ] Memahami korelasi dan pola yang ada pada data
+- \[x] Memastikan nilai akurasi
+
+#### Q13. Dalam EDA, proses melakukan analisis yang menggunakan lebih dari atau sama dengan tiga variabel disebut dengan ...
+
+- \[ ] Univariate analysis
+- \[ ] Dimensional analysis
+- \[ ] Factor analysis
+- \[x] Multivariate analysis
+- \[ ] Bivariate analysis
+
+#### Q14. Ada atau tidaknya hubungan antara dua variabel dapat kita lihat pada nilai ...
+
+- \[ ] Akurasi
+- \[ ] Mean
+- \[ ] Identifikasi
+- \[ ] Median
+- \[x] Korelasi
+
+#### Q15. Dalam EDA, proses melakukan analisis relasi dengan dua variabel yang biasanya dengan target variabel disebut juga dengan ...
+
+- \[x] Bivariate analysis
+- \[ ] Multivariate analysis
+- \[ ] Univariate analysis
+- \[ ] Factor analysis
+- \[ ] Dimensional analysis
