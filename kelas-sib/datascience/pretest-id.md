@@ -76,3 +76,43 @@
 - \[x] 129
 - \[ ] 121
 - \[ ] 8
+
+#### Q11. Berikut ini yang bukan merupakan ukuran yang akan muncul pada fungsi describe() di Pandas yaitu ...
+
+- \[ ] Min
+- \[ ] Median
+- \[x] Akurasi
+- \[ ] Mean
+- \[ ] Max
+
+#### Q12. Distribusi normal baku memiliki ciri-ciri
+
+- \[ ] mean = standar deviasi
+- \[ ] mean = 2 x (standar deviasi)
+- \[ ] mean = 1 dan standar deviasi 1
+- \[x] mean = 0 dan standar deviasi = 1
+- \[ ] semua salah
+
+#### Q13. Pada suatu tabular data, banyaknya data ditentukan oleh jumlah ...
+
+- \[ ] Waktu yang dibutuhkan untuk load data
+- \[ ] Data bertipe teks
+- \[ ] Jawaban tidak ada dalam opsi
+- \[ ] Kolom
+- \[x] Baris
+
+#### Q14. Pada suatu tabular data, besarnya dimensi data ditentukan oleh jumlah ...
+
+- \[ ] Waktu yang dibutuhkan untuk load data
+- \[ ] Jawaban tidak ada dalam opsi
+- \[x] Kolom
+- \[ ] Data bertipe teks
+- \[ ] Baris
+
+#### Q15. Dalam EDA, proses melakukan analisis deskriptif dengan satu variabel disebut dengan ...
+
+- \[ ] Bivariate analysis
+- \[ ] Dimensional analysis
+- \[x] Univariate analysis
+- \[ ] Factor analysis
+- \[ ] Multivariate analysis
