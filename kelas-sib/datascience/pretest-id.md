@@ -37,10 +37,42 @@
 - \[ ] Writing a data dictionary
 - \[x] EDA and Data Visualization
 
-#### Q6. ??
+#### Q6. Manakah dari konsep berikut yang bukan merupakan bagian dari Python?
 
-- \[ ] Non-parametric methods
-- \[ ] Machine Learning
-- \[ ] Creating a relational database
-- \[ ] Writing a data dictionary
-- \[x] EDA and Data Visualization
+- \[x] Pointers
+- \[ ] Exception Handling
+- \[ ] Dynamic Typing
+- \[ ] Semua
+- \[ ] Loop
+
+#### Q7. Pemrograman yang paling banyak digunakan oleh Data Scientist tahun 2021 berdasarkan data yang disajikan di dalam materi yaitu ...
+
+- \[ ] Pearl
+- \[x] Python
+- \[ ] Java
+- \[ ] R
+- \[ ] Matlab
+
+#### Q8. Syntax untuk memanggil library pada python adalah ...
+
+- \[ ] open nama_modul
+- \[x] import nama_modul
+- \[ ] include nama_modul
+- \[ ] input nama_modul
+- \[ ] require("nama_modul")
+
+#### Q9. Kita dapat menginstall python dan library yang ada dengan gratis serta menggunakannya sesuai dengan keinginan kita merupakan salah satu keunggulan python yang bersifat ...
+
+- \[ ] multi-processing
+- \[ ] interpreter
+- \[ ] map reduce
+- \[x] open-source
+- \[ ] automate
+
+#### Q10. `print(2**3 + (5+6)**(1+1))` akan mengeluarkan output ...
+
+- \[ ] 30
+- \[ ] Tidak ada jawaban
+- \[x] 129
+- \[ ] 121
+- \[ ] 8
