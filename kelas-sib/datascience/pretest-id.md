@@ -190,3 +190,37 @@
 - \[x] Supaya dapat dipahami oleh semua kalangan yang menerima informasi tersebut
 - \[ ] Supaya terlihat mewah saja.
 - \[ ] Untuk mempersulit siapapun yang melihatnya.
+
+#### Q26. Klasifikasi termasuk ke dalam Supervised Learning.
+
+- \[x] True
+- \[ ] False
+
+#### Q27. Label/kelas/target pada klasifikasi harus bersifat diskrit (kategorikal)
+
+- \[x] True
+- \[ ] False
+
+#### Q28. Klasifikasi dengan kasus data yang memiliki dua jenis kelas/label disebut juga dengan ...
+
+- \[ ] Multi-Class Classification
+- \[ ] Boundary Classification
+- \[x] Binary Classification
+- \[ ] Multi-Label Classification
+- \[ ] Multinomial Classification
+
+#### Q29. Library python yang telah menyediakan algoritma machine learning yang siap pakai yaitu ...
+
+- \[ ] Seaborn
+- \[ ] Numpy
+- \[ ] Matplotlib
+- \[ ] Scipy
+- \[x] Scikit-learn
+
+#### Q30. Berikut ini yang bukan contoh kasus klasifikasi.
+
+- \[ ] Music Genre Classification
+- \[x] Stock Value Forecasting
+- \[ ] Email Spam Detection
+- \[ ] Sentiment Analysis
+- \[ ] Hate Speech Filtering
