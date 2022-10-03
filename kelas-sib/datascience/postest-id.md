@@ -119,3 +119,40 @@
 - \[ ] Univariate analysis
 - \[ ] Factor analysis
 - \[ ] Dimensional analysis
+
+#### Q16. Berikut ini yang bukan termasuk proses yang biasanya ada di dalam preprocessing adalah ...
+
+- \[x] Evaluasi performa model
+- \[ ] Handling outliers
+- \[ ] Hapus duplikat data
+- \[ ] Handling missing value
+- \[ ] Transformasi data
+
+#### Q17. Pada kasus imbalanced data, metric evaluasi yang dilihat hanyalah metric akurasi
+
+- \[ ] True
+- \[x] False
+
+#### Q18. Berikut ini yang merupakan salah satu bentuk teknik feature extraction pada data audio adalah ...
+
+- \[x] Spectogram
+- \[ ] Morphological Transformation
+- \[ ] Case Folding
+- \[ ] Geometric Transformations
+- \[ ] TF-IDF
+
+#### Q19. Teknik pengolahan gambar untuk mengatur dan merubah jenis channel dikenal juga dengan teknik ...
+
+- \[ ] Resize image
+- \[x] Changing color space
+- \[ ] Morphological Transformation
+- \[ ] Stopword removal
+- \[ ] Croping
+
+#### Q20. Preprocessing teks untuk men-generalisir bentuk tulisan ke dalam huruf kecil atau besar disebut juga dengan ...
+
+- \[ ] slang word handling
+- \[ ] bag of words
+- \[ ] stopword removal
+- \[x] case folding
+- \[ ] feature scaling
