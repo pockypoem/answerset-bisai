@@ -104,3 +104,73 @@
 - \[ ] Basis Data
 - \[ ] DBMS
 - \[x] Model Data
+
+#### Q16. Berikut ini adalah Syntax yang benar mendefinisikan primary key untuk Field 1 ...
+
+- \[x] `CREATE TABLE namatabel (Field1 TipeData1, Field2 TipeData2, PRIMARY KEY(Field1));`
+- \[ ] `CREATE TABLE namatabel ADD CONSTRAINT namaconstraint PRIMARY KEY (namakolom);`
+- \[ ] `ALTER TABLE namatabel(Field1 TipeData1 NOT NULL PRIMARY KEY, Field2 TipeData2);`
+- \[ ] `CREATE TABLE namatabel(Field1 TipeData1 NOT NULL PRIMARY_KEY, Field2 TipeData2);`
+
+#### Q17. Berikut ini perintah untuk membuat Database yang benar yaitu
+
+- \[ ] `CREATE DATABASE DB AKADEMIK;`
+- \[x] `CREATE DATABASE db_akademik;`
+- \[ ] `CREATE DB_AKADEMIK;`
+- \[ ] `CREATE db akademik;`
+
+#### Q18. Berikut syarat untuk membuat tabel kecuali...
+
+- \[ ] Field1 dan TipeData1 merupakan nama kolom pertama dan tipe data untuk kolom pertama
+- \[x] Nama tabel case sensitive
+- \[ ] Jika ingin membuat tabel dengan kolom lebih dari satu, maka setelah pendefinisan tipe data sebelumnya diberikan tanda koma (,)
+- \[ ] Nama tabel tidak boleh mengandung spasi
+
+#### Q19. Cara menghapus primary key jika primary key dibuat dengan menggunakan alter table yaitu ...
+
+- \[x] `ALTER TABLE namatabel DROP PRIMARY KEY;`
+- \[ ] `DROP TABLE namatabel ADD CONSTRAINT namaconstraint PRIMARY KEY (namakolom);`
+- \[ ] `ALTER TABLE namatabel DROP CONSTRAINT namaconstraint;`
+- \[ ] `ALTER TABLE namatabel (Field1 TipeData1 NOT NULL DROP PRIMARY KEY, Field2 TipeData2);`
+
+#### Q20. Fungsi dari NOT NULL yaitu ...
+
+- \[x] Memastikan bahwa nilai pada kolom tersebut tidak boleh kosong
+- \[ ] Tidak mengizinkan nilai angka 0 pada kolom tersebut
+- \[ ] Tidak mengizinkan spasi kosong pada kolom tersebut
+- \[ ] Memastikan bahwa nilai pada kolom tersebut boleh kosong
+
+#### Q21. Keyword perintah ALTER untuk menghapus kolom adalah ...
+
+- \[ ] DELETE
+- \[ ] CHANGE
+- \[ ] REMOVE
+- \[x] DROP
+
+#### Q22. Perintah SHOW TABLES; digunakan untuk ...
+
+- \[ ] Menampilkan Atribut Tabel
+- \[ ] Menampilkan daftar nama database yang ada pada mysql
+- \[x] Menampilkan daftar nama tabel yang ada pada database yang sedang aktif
+- \[ ] Membuat Database
+
+#### Q23. Syntax tambahan untuk menampilkan daftar nama database yang ada pada mysql yaitu ...
+
+- \[ ] USE DATABASES;
+- \[ ] SHOW TABLES;
+- \[ ] DROP DATABASES;
+- \[x] SHOW DATABASES;
+
+#### Q24. Untuk mengaktifkan salah satu database sebagai database aktif yang akan digunakan sintaks sql ...
+
+- \[ ] SHOW
+- \[x] USE
+- \[ ] CREATE
+- \[ ] INSERT
+
+#### Q25. Yang termasuk dalam kelompok DDL adalah (kecuali)...
+
+- \[ ] DROP
+- \[x] DELETE
+- \[ ] CREATE
+- \[ ] ALTER
