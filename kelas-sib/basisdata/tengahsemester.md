@@ -152,9 +152,9 @@
 #### Q22. Sintak insert untuk menambahkan data pada tabel yang memiliki kolom NIS, nama dan umur, berikut ini yang salah (terjadi error) adalah ...
 
 - \[ ] INSERT INTO siswa (NIS, nama, umur) VALUES ("123","Rio","16")
-- \[ ] INSERT INTO siswa (NIS, nama, umur, alamat) VALUES ("123","Rio","16","Gianyar")
+- \[x] INSERT INTO siswa (NIS, nama, umur, alamat) VALUES ("123","Rio","16","Gianyar")
 - \[ ] INSERT INTO siswa (umur,nama,NIS) VALUES ("16","Rio","123")
-- \[x] INSERT INTO siswa VALUES ("123","Rio","16")
+- \[ ] INSERT INTO siswa VALUES ("123","Rio","16")
 
 #### Q23. Rilis awal MongoDB ada di tahun?
 
