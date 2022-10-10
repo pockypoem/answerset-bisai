@@ -171,14 +171,14 @@
 - \[x] Phpmyadmin
 - \[ ] Xampp
 
-#### Q26. Sintak SQL untuk menampilkan nama siswa pada tabel siswa yang berada di kelas RPL adalah ...
+#### Q25. Sintak SQL untuk menampilkan nama siswa pada tabel siswa yang berada di kelas RPL adalah ...
 
 - \[ ] SELECT "nama_siswa" FROM "siswa" WHERE "kelas" = "RPL"
 - \[x] SELECT nama_siswa FROM siswa WHERE kelas = "RPL"
 - \[ ] SELECT \* FROM nama_siswa WHERE kelas = "RPL"
 - \[ ] SELECT \* FROM nama_siswa WHERE siswa = "RPL"
 
-#### Q27. Berikut merupakan perangkat lunak database relasi (Relational Database Management System atau RDBMS) kecuali ..
+#### Q26. Berikut merupakan perangkat lunak database relasi (Relational Database Management System atau RDBMS) kecuali ..
 
 - \[x] MONGODB
 - \[ ] Postgresql
@@ -186,63 +186,63 @@
 - \[ ] ORACLE
 - \[ ] MYSQL
 
-#### Q28. Sebuah metode di mongoDB yang digunakan untuk menampilkan data seperti find tetapi kita dapat menampilkan dari beberapa koleksi untuk jika tabelnya sudah berrelasi, disebut ...
+#### Q27. Sebuah metode di mongoDB yang digunakan untuk menampilkan data seperti find tetapi kita dapat menampilkan dari beberapa koleksi untuk jika tabelnya sudah berrelasi, disebut ...
 
-- \[ ] Lookup
-- \[x] Match
+- \[x] Lookup
+- \[ ] Match
 - \[ ] Set
 - \[ ] LocalField
 
-#### Q29. Misalkan kita ingin mengubah data siswa pada kolom nama menjadi Anita Mariani dalam tabel siswa yang nisnya 200. Bagaimana perintah SQL yang harus dilakukan?
+#### Q28. Misalkan kita ingin mengubah data siswa pada kolom nama menjadi Anita Mariani dalam tabel siswa yang nisnya 200. Bagaimana perintah SQL yang harus dilakukan?
 
 - \[x] UPDATE mahasiswa SET nama = "Anita Mariani" WHERE nis = "200"
 - \[ ] UPDATE "mahasiswa" SET "nama" = "Anita Mariani" WHERE "nis" = "200"
 - \[ ] UPDATE nama mahasiswa SET "Anita Mariani" WHERE nis = "200"
 - \[ ] UPDATE nama mahasiswa SET = "Anita Mariani" WHERE nis = "200"
 
-#### Q30. Untuk menambahkan data langsung banyak pada mongoDB kita dapat menggunakan cara...
+#### Q29. Untuk menambahkan data langsung banyak pada mongoDB kita dapat menggunakan cara...
 
 - \[ ] db.nama_koleksi.insertAll()
 - \[ ] db.nama_koleksi.insertOne()
 - \[ ] db.nama_koleksi.saveMany()
 - \[x] db.nama_koleksi.insertMany()
 
-#### Q31. Jika kita melakukan penambahan dokumen pada mongoDB untuk key value berikut "Nama : Fatih, Alamat : Malang". maka perintah yang benar adalah...
+#### Q30. Jika kita melakukan penambahan dokumen pada mongoDB untuk key value berikut "Nama : Fatih, Alamat : Malang". maka perintah yang benar adalah...
 
 - \[ ] db.siswa.saveOne({nama:"Fatih",alamat:"Malang"})
 - \[ ] db.siswa.insert{"nama":"Fatih","alamat":"Malang"}
 - \[ ] db.siswa.insert({"nama":Fatih,"alamat":Malang});
 - \[x] db.siswa.insertOne({"nama":"Fatih","alamat":"Malang"})
 
-#### Q32. Sebutkan perbedaan mendasar antara Database SQL dan NoSQL dari pernyataan berikut ini.. (1) SQL memiliki Relational, (2) NoSQL memiliki record dan field, (3) NoSQL bentuk data dokumen yang terdiri dari Key dan Value, (4) SQL memiliki record dan field, (5) SQL bentuk data bisa dalam bentuk Grafik. Pilih jawaban yang benar..
+#### Q31. Sebutkan perbedaan mendasar antara Database SQL dan NoSQL dari pernyataan berikut ini.. (1) SQL memiliki Relational, (2) NoSQL memiliki record dan field, (3) NoSQL bentuk data dokumen yang terdiri dari Key dan Value, (4) SQL memiliki record dan field, (5) SQL bentuk data bisa dalam bentuk Grafik. Pilih jawaban yang benar..
 
 - \[ ] 1, 2 dan 3
 - \[ ] 2, 3 dan 4
 - \[ ] 1, 3 dan 5
 - \[x] 1, 3 dan 4
 
-#### Q33. Manakah dari berikut ini yang setara di MongoDB dari pernyataan SQL select\* from employee order by salary desc;?
+#### Q32. Manakah dari berikut ini yang setara di MongoDB dari pernyataan SQL select\* from employee order by salary desc;?
 
 - \[ ] db.employee.find.sort({“salary”:1}]
 - \[ ] db.employee.sort({“salary”:1}]
 - \[ ] db.employee.sort ({“salary”:-1}]
 - \[x] db.employee.find.sort ({“salary”:-1}
 
-#### Q34. Setiap field dalam table harus diikuti tipe data. Tipe data yang sesuai pada field nilai adalah ….
+#### Q33. Setiap field dalam table harus diikuti tipe data. Tipe data yang sesuai pada field nilai adalah ….
 
 - \[x] Integer
 - \[ ] Date
 - \[ ] Char
 - \[ ] Varchar
 
-#### Q35. Tunjukkan pernyataan yang benar.
+#### Q34. Tunjukkan pernyataan yang benar.
 
 - \[ ] MongoDB lebih menyukai format XML daripada JSON
 - \[ ] MongoDB adalah penyimpanan database berorientasi kolom
 - \[x] MongoDB diklasifikasikan sebagai database NoSQL
 - \[ ] Semua benar
 
-#### Q36. Apa kegunaan dari SQL?
+#### Q35. Apa kegunaan dari SQL?
 
 - \[ ] Menyimpan data di database
 - \[ ] Mengambil data di database
