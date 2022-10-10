@@ -99,7 +99,7 @@
 - \[ ] show.collections
 - \[x] db.mobil.find()
 
-#### Q15. MongoDB adalah database nosql berbasis \***\*\_\*\*** yang menyediakan kinerja tinggi, ketersediaan tinggi, dan skalabilitas yang mudah.
+#### Q15. MongoDB adalah database nosql berbasis ..... yang menyediakan kinerja tinggi, ketersediaan tinggi, dan skalabilitas yang mudah.
 
 - \[x] document
 - \[ ] all
