@@ -54,7 +54,7 @@
 - \[ ] Variablititas
 - \[ ] Modalitas
 - \[x] Kardinalitas
-- \[x] Unary
+- \[ ] Unary
 
 #### Q9. Notasi grafis dalam pemodelan data konseptual yang mendeskripsikan hubungan antara penyimpanan serta digunakan untuk memodelkan struktur data dan hubungan antar data disebut ...
 
