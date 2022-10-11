@@ -224,3 +224,24 @@
 - \[ ] Email Spam Detection
 - \[ ] Sentiment Analysis
 - \[ ] Hate Speech Filtering
+
+#### Q31. Regresi dan Klasifikasi sama-sama termasuk Supervised Machine Learning
+
+- \[x] True
+- \[ ] False
+
+#### Q32. Pernyataan berikut yang tidak benar adalah ...
+
+- \[ ] Target pada regresi bersifat numerical continuous
+- \[ ] Tujuan dari regresi adalah prediksi nilai dependent variable dari independent variables.
+- \[x] Regresi termasuk Unsupervised Learning karena tidak memiliki target.
+- \[ ] Atribut/prediktor di regresi disebut juga independent variables.
+- \[ ] Regresi termasuk dalam Machine Learning
+
+#### Q33. Perbedaan antara regresi dan klasifikasi adalah pada ...
+
+- \[ ] Klasifikasi hanya untuk data text
+- \[ ] Data test-nya
+- \[x] Sifat label/targetnya
+- \[ ] Tidak ada perbedaan
+- \[ ] Data train-nya
