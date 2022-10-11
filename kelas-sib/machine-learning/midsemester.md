@@ -145,8 +145,8 @@
 #### Q19. Dalam scikit-learn library terdapat fungsi untuk memisahkan data menjadi data training dan data testing. Librari yang benar di bawah ini adalah....
 
 - \[ ] sklearn.model_selection.split_test_train()
-- \[ ] sklearn.model_selection.train_test_split()
-- \[x] sklearn.model_selection.train_split()
+- \[x] sklearn.model_selection.train_test_split()
+- \[ ] sklearn.model_selection.train_split()
 - \[ ] sklearn.model_selection.test_split()
 - \[ ] sklearn.model_selection.trainTestSplit()
 
