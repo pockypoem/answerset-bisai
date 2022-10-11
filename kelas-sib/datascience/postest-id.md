@@ -221,3 +221,37 @@
 - \[ ] KNN
 - \[ ] Decision Tree
 - \[ ] Naive Bayes
+
+#### Q31. Berikut contoh penerapan regresi adalah ...
+
+- \[ ] Sentiment analysis data teks.
+- \[ ] Deteksi penyakit pada citra medis.
+- \[x] Estimasi harga saham di masa depan.
+- \[ ] Topic modelling dari dokumen.
+- \[ ] Segmentasi sel kanker pada citra MRI otak.
+
+#### Q32. Dalam algoritma Decission Tree yang dipakai untuk kasus regresi, output pada setiap ujung cabang diperoleh dengan menghitung nilai rata-rata dari subdata tersebut.
+
+- \[x] True
+- \[ ] False
+
+#### Q33. Berikut contoh algoritma yang tidak cocok digunakan dalam kasus regresi adalah ...
+
+- \[ ] Multiple Linear Regression
+- \[ ] Decision Tree
+- \[x] K-Means
+- \[ ] Linear Regression
+- \[ ] Support Vector Machine
+
+#### Q34. Berikut library yang menyediakan algoritma regresi siap pakai adalah ...
+
+- \[ ] opencv
+- \[ ] pandas
+- \[ ] plotly
+- \[x] scikit-learn
+- \[ ] matplotlib
+
+#### Q35. Support Vector Machine dapat diarahkan untuk kasus Klasifikasi, juga dapat digunakan dalam kasus Regresi.
+
+- \[x] True
+- \[ ] False
