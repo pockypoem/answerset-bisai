@@ -255,3 +255,34 @@
 
 - \[x] True
 - \[ ] False
+
+#### Q36. K Means akan memaksakan semua datapoint akan masuk ke salah satu cluster yang ada
+
+- \[x] True
+- \[ ] False
+
+#### Q37. Karena Unsupervised Learning tidak memiliki target, maka dalam konsep Clustering akan mencari homogenitas atau kemiripan antar data.
+
+- \[x] True
+- \[ ] False
+
+#### Q38. Berikut ini yang tidak termasuk dalam Unsupervised Learning adalah
+
+- \[x] Regression
+- \[ ] Autoencoder
+- \[ ] Dimensionality Reduction
+- \[ ] Association Rules
+- \[ ] Clustering
+
+#### Q39. Dalam DBSCAN algorithm, suatu datapoint dikatakan Noise Point jika
+
+- \[ ] memiliki epsilon yang paling besar
+- \[x] memiliki jumlah tetangga dibawah Min. Samples yang ditentukan dan datapoint tersebut tidak berada dalam Neighborhood dari Core Point
+- \[ ] terhubung dengan Density Edge
+- \[ ] memiliki jumlah tetangga yang memenuhi Min. Samples walaupun tidak berada dalam Neighborhood dari Core Point
+- \[ ] memiliki tetangga paling banyak dalam Neighborhood
+
+#### Q40. Dalam K Means algorithm, untuk mengupdate centroid digunakan rumus median
+
+- \[ ] True
+- \[x] False
