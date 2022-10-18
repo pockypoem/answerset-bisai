@@ -245,3 +245,34 @@
 - \[x] Sifat label/targetnya
 - \[ ] Tidak ada perbedaan
 - \[ ] Data train-nya
+
+#### Q34. Clustering termasuk dalam Unsupervised Learning
+
+- \[x] True
+- \[ ] False
+
+#### Q35. K Nearest Neighbor merupakan algoritma clustering
+
+- \[ ] True
+- \[x] False
+
+#### Q36. Apa perbedaan yang paling mendasar antara Supervised Learning dan Unsupervised Learning?
+
+- \[ ] Fitur pada Supervised Learning harus vategorical values sedangkan fitur pada Unsupervised Learning harus numerical values
+- \[ ] Supervised Learning tidak cocok pada data tabular
+- \[x] Supervised Learing memiliki variabel target/label sedangkan Unsupervised Learning tidak.
+- \[ ] Unsupervised Learning tidak bisa mengatasi outlier atau noise
+- \[ ] Unsupervised Learning memerlukan data yang banyak sedangkan Supervised Learning tidak
+
+#### Q37. K Means membutuhkan centroid dalam menentukan anggota klaster
+
+- \[x] True
+- \[ ] False
+
+#### Q38. Berikut ini yang bukan merupakan algoritma Clustering adalah
+
+- \[ ] K Medoid
+- \[ ] Hierarchycal Clustering
+- \[x] K Nearest Neighbor
+- \[ ] K Means
+- \[ ] DBSCAN
