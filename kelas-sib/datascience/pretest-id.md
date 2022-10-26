@@ -276,3 +276,29 @@
 - \[x] K Nearest Neighbor
 - \[ ] K Means
 - \[ ] DBSCAN
+
+#### Q39. Berikut ini yang merupakan metrik evaluasi yang tepat untuk contoh kasus "Prediksi harga mobil" adalah
+
+- \[ ] Kappa Score
+- \[ ] Accuracy
+- \[ ] Silhoutte Score
+- \[ ] F1 Score
+- \[x] Mean Squared Error
+
+#### Q40. Tujuan dari Evaluasi Model Machine Learning adalah untuk mengukur seberapa bagus performa model jika diuji ke data diluar data latih
+
+- \[x] True
+- \[ ] False
+
+#### Q41. Berikut ini pernyataan yang kurang tepat adalah
+
+- \[ ] Silhouette Score bukan satu-satunya metric evaluasi untuk clustering
+- \[ ] Recall merupakan salah satu evaluasi yang tepat untuk klasifikasi
+- \[x] Akurasi kurang cocok untuk klasifikasi data gambar
+- \[ ] F1 Score dapat dipakai dalam evaluasi klasifikasi
+- \[ ] Jangan menggunakan Kappa Score dalam mengevaluasi kasus Regresi
+
+#### Q42. Dalam kasus "Spam Classification" kita dapat menggunakan metrics evaluation "Accuracy" dan "F1 Score"
+
+- \[x] True
+- \[ ] False
