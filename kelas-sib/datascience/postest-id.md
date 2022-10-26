@@ -286,3 +286,26 @@
 
 - \[ ] True
 - \[x] False
+
+#### Q41. Recall tidak sama dengan Sensitivity
+
+- \[ ] True
+- \[x] False
+
+#### Q42. Berikut ini hal yang tidak tepat adalah
+
+- \[ ] Metric Evaluasi pada klasifikasi tidak cocok untuk regresi
+- \[ ] MSE dan MAE merupakan metric evaluation untuk regresi
+- \[ ] Dalam clustering, selain melihat hasil dari evaluasinya, kita juga harus melihat interpretasi dari cluster yang terbentuk
+- \[ ] Dalam evaluasi klasifikasi, selain menggunakan akurasi bisa juga ditambahkan dengan f1 score
+- \[x] Menggunakan akurasi dalam kasus clustering
+
+#### Q43. Specificity disebut juga True Negative Rate (TNR)
+
+- \[x] True
+- \[ ] False
+
+#### Q44. Nilai Mean Squared Error cenderung lebih besar daripada Root Mean Squarred Error
+
+- \[x] True
+- \[ ] False
