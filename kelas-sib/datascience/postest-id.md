@@ -309,3 +309,29 @@
 
 - \[x] True
 - \[ ] False
+
+#### Q45. Output minimum yang dihasilkan dari fungsi ReLU adalah 0
+
+- \[x] True
+- \[ ] False
+
+#### Q46. Perbedaan Single Perceptron dengan Multi-Layer Perceptron yaitu jumlah neuron yang didefinisikan
+
+- \[x] True
+- \[ ] False
+
+#### Q47. Di proses apakah kita dapat memperoleh nilai bobot baru?
+
+- \[ ] Input data
+- \[x] Penggunaan fungsi aktivasi sigmoid
+- \[ ] Feedforward
+- \[ ] Feature Learning
+- \[x] Backpropagation
+
+#### Q48. Dalam Neural Network, setiap input data akan dilakukan pembobotan (dikalikan dengan suatu nilai bobot). Bagaimana cara mendefinisikan nilai bobot tersebut?
+
+- \[ ] Nilai bobot berada pada rentang 0 sampai 365
+- \[ ] Nilai bobot berada pada rentang 1 sampai 26 (angka mewakili huruf alfabet)
+- \[ ] Nilai bobot sama dengan nilai input
+- \[ ] Nilai bobot hanya boleh bernilai 1 atau -1
+- \[x] Bobot didefinisikan dari suatu random value (nilai acak)
