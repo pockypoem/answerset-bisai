@@ -324,7 +324,7 @@
 - \[ ] Jumlah data yang akan dilatih (data train)
 - \[ ] Jenis data
 
-#### Q45. Epoch yang lebih banyak akan memakan waktu dan resource untuk proses yang lebih lama
+#### Q46. Epoch yang lebih banyak akan memakan waktu dan resource untuk proses yang lebih lama
 
 - \[x] True
 - \[ ] False
