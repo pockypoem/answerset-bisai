@@ -302,3 +302,29 @@
 
 - \[x] True
 - \[ ] False
+
+#### Q43. Neural Network lebih cocok digunakan pada data unstructured seperti gambar daripada data yang structured seperti data tabel
+
+- \[ ] True
+- \[x] False
+
+#### Q44. Berikut pernyataan yang benar tentang Neural Network pada Machine Learning, kecuali
+
+- \[x] Neural Network merupakan jenis penyakit saraf dalam ilmu kedokteran
+- \[ ] Neural network dapat diterapkan untuk kasus regresi
+- \[ ] Konsep machine learning dengan perhitungan yang kompleks
+- \[ ] Konsep machine learning yang terinspirasi dari jaringan saraf biologis
+- \[ ] Neural network dapat diterapkan untuk kasus klasifikasi
+
+#### Q45. Berikut ini aspek penting dalam training menggunakan Neural Network, kecuali
+
+- \[ ] Arsitektur Neural Network yang dibuat
+- \[x] Nama / brand laptop yang digunakan
+- \[ ] Kemampuan perangkat (spesifikasi resource)
+- \[ ] Jumlah data yang akan dilatih (data train)
+- \[ ] Jenis data
+
+#### Q45. Epoch yang lebih banyak akan memakan waktu dan resource untuk proses yang lebih lama
+
+- \[x] True
+- \[ ] False
