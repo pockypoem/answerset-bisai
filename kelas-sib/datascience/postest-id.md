@@ -323,7 +323,7 @@
 #### Q47. Di proses apakah kita dapat memperoleh nilai bobot baru?
 
 - \[ ] Input data
-- \[x] Penggunaan fungsi aktivasi sigmoid
+- \[ ] Penggunaan fungsi aktivasi sigmoid
 - \[ ] Feedforward
 - \[ ] Feature Learning
 - \[x] Backpropagation
