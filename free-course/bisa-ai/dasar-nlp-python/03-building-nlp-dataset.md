@@ -1,4 +1,4 @@
-## Quiz for second syllabus
+## Quiz for third syllabus
 
 #### Q1. Berikut pernyataan yang benar mengenai dataset, kecuali
 
